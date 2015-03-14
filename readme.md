@@ -1,6 +1,6 @@
 # Wah!Cade - Focus layout v0.1
 
-![Sega Megadrive games in Focus layout.](http://i.imgur.com/J5IcCt6.jpg)
+![Sega Megadrive games in Focus layout.](http://i.imgur.com/rxb9BjI.jpg)
 
 A minimalistic layout to be used in Wah!Cade, an emulator launcher. It's
 intended to be used in big TVs (32 inches or above) so maybe you need to change
