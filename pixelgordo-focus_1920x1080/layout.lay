@@ -92,8 +92,8 @@ True
 False
  9.75
  2
- 800
- 170
+ 837
+ 82
  500
  500
 True
@@ -105,8 +105,8 @@ True
 False
  9.75
  2
- 800
- 500
+ 837
+ 572
  500
  500
 True
@@ -226,17 +226,17 @@ False
  548
  381
  24
-False
+True
  1
  0
- 12961221
+ 0
 SF Atarian System Extended
 False
 False
  10.0
  2
- 573
- 573
+ 673
+ 946
  381
  24
 True
@@ -361,7 +361,7 @@ True
 Droid Sans Thai
 True
 False
- 16
+ 16.0
  2
  0
  21
